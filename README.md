@@ -1,6 +1,6 @@
 # LoanApplicationredictionML
 
-Introduction
+Introduction:
 Predicting loan application outcomes is a critical aspect of risk management for financial institutions. This project applies machine learning algorithms to classify loan applications as approved or rejected based on applicant data.
 
 The key objectives are:
