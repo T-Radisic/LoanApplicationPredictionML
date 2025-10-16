@@ -9,7 +9,7 @@ Clean and preprocess the data.
 Train a random forest classifier model.
 Evaluate model performance.
 
-Dataset
+Dataset:
 The datasets used for this project is sourced from Kaggle.
 https://www.kaggle.com/datasets/vedaantsingh/loan-application-risk-prediction-data?resource=download
 
